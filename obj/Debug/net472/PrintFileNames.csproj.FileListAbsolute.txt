@@ -1,0 +1,6 @@
+X:\printfilenames\PrintCharacterFileNames\PrintFileNames\obj\Debug\net472\PrintFileNames.csproj.AssemblyReference.cache
+X:\printfilenames\PrintCharacterFileNames\PrintFileNames\obj\Debug\net472\PrintFileNames.GeneratedMSBuildEditorConfig.editorconfig
+X:\printfilenames\PrintCharacterFileNames\PrintFileNames\obj\Debug\net472\PrintFileNames.AssemblyInfoInputs.cache
+X:\printfilenames\PrintCharacterFileNames\PrintFileNames\obj\Debug\net472\PrintFileNames.AssemblyInfo.cs
+X:\printfilenames\PrintCharacterFileNames\PrintFileNames\obj\Debug\net472\PrintFileNames.csproj.CoreCompileInputs.cache
+X:\printfilenames\PrintCharacterFileNames\PrintFileNames\obj\Debug\net472\PrintFileNames.sourcelink.json
